@@ -5,11 +5,7 @@
   "projects": {
     "Sai-Email-Angular": {
       "projectType": "application",
-      "schematics": {
-        "@schematics/angular:component": {
-          "style": "scss"
-        }
-      },
+      "schematics": {},
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -28,7 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.css"
             ],
             "scripts": []
           },
@@ -92,7 +88,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.css"
             ],
             "scripts": []
           }
@@ -123,10 +119,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "Sai-Email-Angular",
-  "cli": {
-    "analytics": "04cf3d82-afb6-47b9-88fa-cfbe65d6678a"
-  }
+    }},
+  "defaultProject": "Sai-Email-Angular"
 }
