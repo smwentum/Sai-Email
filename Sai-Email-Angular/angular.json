@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Sai-Email-Angular"
+    }
+  },
+  "defaultProject": "Sai-Email-Angular",
+  "cli": {
+    "analytics": "04cf3d82-afb6-47b9-88fa-cfbe65d6678a"
+  }
 }
