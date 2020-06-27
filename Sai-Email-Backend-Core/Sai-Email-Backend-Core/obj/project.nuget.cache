@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRU+zaVH7oyTwbyYB2U4qtSa2H4c94TQumZUwESd6/OO+HL6wC9/3vFkXlT/rYNLGj/NqO6Gwss0cl3+AAvqzA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\random programming stuff\\Sai-Email\\Sai-Email-Backend-Core\\Sai-Email-Backend-Core\\Sai-Email-Backend-Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sai Wentum\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
